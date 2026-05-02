@@ -4,7 +4,6 @@
 
 ---
 
-```markdown
 # 📊 Big Data Application Practice 1 (빅데이터 활용 실습 1)
 
 ## 📝 프로젝트 소개 (Description)
@@ -52,7 +51,6 @@
 
 ## ✍️ 학습 회고 (Retrospective)
 - 매주 실습을 진행하며 얻은 핵심 인사이트나 트러블슈팅 과정은 각 주차별 폴더 내부의 메모나 개인 블로그를 통해 정리합니다.
-```
 
 ---
 
